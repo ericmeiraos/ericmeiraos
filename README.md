@@ -24,7 +24,7 @@
 <a href="https://www.nodejs.org" target="_blank"> <img src="./icons/node.png" alt="Node JS" width="40" height="40"/> </a> 
 
 ### _Banco de Dados_
-<a href="https://www.postgresql.org/" target="_blank"> <img src="./icons/postgre.png" alt="Pstgre SQL" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="./icons/mysql.png" alt="mySQL" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org/" target="_blank"> <img src="./icons/postgre.png" alt="Pstgre SQL" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="./icons/mysql.png" alt="mySQL" width="40" height="40"/> </a> <a href="https://firebirdsql.org/" target="_blank"> <img src="./icons/firebird.png" alt="Firebird" width="40" height="40"/> </a>
 
 ### _Ferramentas_
 <a href="https://www.docker.com/" target="_blank"> <img src="./icons/docker.png" alt="Docker" width="40" height="40"/> </a>
